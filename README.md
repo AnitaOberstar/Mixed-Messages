@@ -18,7 +18,7 @@ install node.js
 ## Usage
 Clone this repo to a local folder
 
-git clone https://github.com/anitaoberstar/mixedMessages.git
+git clone https://github.com/AnitaOberstar/Mixed-Messages.git
 
 ## Run the program
 node script.js
