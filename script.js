@@ -7,7 +7,7 @@ const message = {
         const randomColor = this.color[Math.floor(Math.random() * message.color.length)];
         const randomClothes = this.clothes[Math.floor(Math.random() * message.clothes.length)];
         const randomActivity = this.activity[Math.floor(Math.random() * message.activity.length)];
-        return `Today I am going for a ${randomActivity} in my ${randomColor} ${randomClothes}.`
+        return `Today I am going ${randomActivity} in my ${randomColor} ${randomClothes}.`
     }
 };
 
